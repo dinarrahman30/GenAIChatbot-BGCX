@@ -1,1 +1,1 @@
-# GenAIChatbot-BGCX
+# **BCG X - Generative AI**
